@@ -47,7 +47,7 @@ __*dois underline e um asterisco mistura o negrito e o itálico*__
 
 **Criar link** abre colchetes e digite algo como "clique aqui", fecha colchetes, em seguida abre parênteses adicionando o link e fecha parênteses 
 
-[acesse meu GitHub](https://github.com/ale-barbosa)
+[acesse meu GitHub](https://github.com/allessandra-barbosa)
 
 
 #### Criando tabela
