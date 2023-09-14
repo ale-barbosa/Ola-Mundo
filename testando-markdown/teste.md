@@ -71,3 +71,21 @@ Num | Nome | Nota
 1 | Alessandra | 9
 2 | Maria | 10
 
+**Destacar comando** utiliza crase para apenas uma linha `document.getElementById()` 
+
+Para destacar trecho de código utiliza três crases para abrir e três crases para fechar
+
+```
+num1 = 5
+num2 = 4
+```
+
+*Adicionar emojis* digitar dois pontos e vai sugerir algumas opções ou digitar dois pontos e o nome do emoji 👌 [link de perfil com o nome de todos os emojis](https://github.com/ikatyang/emoji-cheat-sheet)
+
+*Para marcar pessoas* adicionar um @ e colocar o nome do perfil que deseja marcar
+
+Para responder um comentário nas issues clicar nas reticências e em seguida em "quete reply" que será possível responder ou digitar o sinal de >
+> Será que vai chover?
+
+Já está chovendo
+
